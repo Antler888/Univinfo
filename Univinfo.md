@@ -1,5 +1,5 @@
 高校信息 UnivInfo
-2019-07-21 / Full & Updated
+2019-07-26 / Full
 
 B:
   北京 的 大学
@@ -57,6 +57,8 @@ W:
 X:
   西南民族大学
     📣  @SWUNConstructionToday
+  香港中文大学
+    📣  @CUHKSecretsSelect
   香港中文大学（深圳）
     📣  @pill_lgu
 
@@ -69,16 +71,5 @@ Z:
     💬  @sbddy2019
 
 
-[2019-07-20更新]
-- 新频道 @huizhouu
-- Pray for Kyoani
-- 各位新生应该陆续收到录取结果了，建议与各位学长学姐（或自行）加大力度
-- 同时诚邀管理员
-- ↓ 排序方式的投票
-
-https://t.me/univinfo/42
-
-[2019-07-21更新]
-- 修正大学名称及排版
-- 新群聊 @WHUTTG
-- 新群聊 @gdou_water
+[2019-07-26更新]
+- 新频道 @CUHKSecretsSelect
