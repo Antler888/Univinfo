@@ -1,5 +1,5 @@
 高校信息 UnivInfo
-2019-05-12
+2019-05-23
 
 B:
   北京 的 大学
@@ -30,10 +30,12 @@ S:
     📣  @SZU_GGNews
   深圳职业技术学院
     📣  @todayszpt
+  深圳信息职业技术学院
+    📣  @SziitNote
 
 X:
   西南民族大学
-    📣  @SWUNStopWaterToday
+    📣  @SWUNConstructionToday
                 (简介含群聊)
   香港中文大学（深圳）
     📣  @pill_lgu
@@ -52,4 +54,4 @@ Z:
 
 
 新频道加入：
-东莞理工大学 @dgutPANIC
+深圳信息职业技术学院 @SziitNote
