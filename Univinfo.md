@@ -1,5 +1,5 @@
 高校信息 UnivInfo
-2019-05-23
+2019-05-27
 
 B:
   北京 的 大学
@@ -33,6 +33,10 @@ S:
   深圳信息职业技术学院
     📣  @SziitNote
 
+U:
+  UIC
+    📣  @pill_uic
+
 X:
   西南民族大学
     📣  @SWUNConstructionToday
@@ -53,5 +57,6 @@ Z:
     🤖  @sysu_notification_bot
 
 
-新频道加入：
-深圳信息职业技术学院 @SziitNote
+新频道：
+北京师范大学—香港浸会大学联合国际学院
+@pill_uic
