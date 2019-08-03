@@ -1,9 +1,11 @@
 高校信息
-2019-04-13
+2019-04-15
 
 B:
   北京 的 大学
     📣  @WMBrigades
+  北京大学树洞
+    📣  @WhatDoZhaosFear
 
 D:
   电子科技大学
@@ -35,6 +37,8 @@ X:
     📣  @pill_lgu
 
 Z:
+  中国石油大学
+    📣  @ohUPCZZ
   中山大学
     📣  @cshs_edu_pill
     📣  @fuck_sysu
@@ -46,4 +50,6 @@ Z:
 
 (注1注2参见上文)
 
-新频道加入：西南民族大学 @SWUNStopWaterToday
+新频道加入：
+中国石油大学 @ohUPCZZ
+北京大学树洞 @WhatDoZhaosFear
