@@ -1,5 +1,5 @@
 高校信息
-2019-04-12
+2019-04-13
 
 B:
   北京 的 大学
@@ -9,7 +9,7 @@ D:
   电子科技大学
     📣  @ohcdzz
 
-D(Errata: J):
+J:
   集美大学
     💬  @JMUtodie
 
@@ -28,6 +28,9 @@ S:
     📣  @todayszpt
 
 X:
+  西南民族大学
+    📣  @SWUNStopWaterToday
+                (简介含群聊)
   香港中文大学（深圳）
     📣  @pill_lgu
 
@@ -43,6 +46,4 @@ Z:
 
 (注1注2参见上文)
 
-
-新频道加入：汕职院 @stptpill
-新群组加入：集美大学 @JMUtodie
+新频道加入：西南民族大学 @SWUNStopWaterToday
