@@ -1,6 +1,6 @@
 # Univinfo
 
-<img src="./Files/iconicon.gif" width="100">
+<img src="Files/icon.gif" width="100">
 
 ### Telegram channel [@Univinfo](https://t.me/Univinfo)
 
