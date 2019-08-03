@@ -1,5 +1,5 @@
 高校信息 UnivInfo
-2019-07-26 / Full
+2019-08-02 / Full
 
 B:
   北京 的 大学
@@ -22,6 +22,7 @@ H:
     💬  @HUNAU
   华南理工大学
     💬  @scuttg
+    💬  @SCUT_water
   惠州学院
     📣  @huizhouu
     💬  @hz_univ
@@ -71,5 +72,7 @@ Z:
     💬  @sbddy2019
 
 
-[2019-07-26更新]
-- 新频道 @CUHKSecretsSelect
+[2019-08-02更新]
+- 新群聊 @SCUT_water
+
+https://t.me/univinfo/48
