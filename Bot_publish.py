@@ -6,9 +6,9 @@ uploader = tgapi.bot(Bot_db.uploader_id)
 
 
 def telegram_style(text):
-    do_italics = re.sub(r'__(.*)__', r'_\1_', text)
-    do_at = re.sub(r'@([a-zA-Z0-9_]*)', r'[\1](t.me/\1)', do_italics)
-    del_strike = re.sub(r'~~(.*)~~', r'\1', do_at)
+    do_italics = re.sub(r'__(.+)__', r'_\1_', text)
+    do_at = re.sub(r'@([a-zA-Z0-9_]+)', r'[@\1](t.me/\1)', do_italics)
+    del_strike = re.sub(r'~~(.+)~~', r'\1 (这里手动下划线)', do_at)
     return (del_strike, False) if del_strike == do_at else (del_strike, True)
 
 
