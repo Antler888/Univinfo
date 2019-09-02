@@ -1,8 +1,8 @@
 高校信息 UnivInfo
-2019-08-03 / Full #Tag
+2019-09-03 / Full #Tag
 
 B:
-  北京 的 大学
+  北京 **的** 大学
     📣  @WMBrigades
   北京大学 / 树洞  #北大
     📣  @WhatDoZhaosFear / @pkuhole
@@ -14,6 +14,8 @@ D:
     📣  @dgutPANIC
 
 G:
+  广东工业大学  #广工
+    📣  @GDUT_Pill
   广东海洋大学
     💬  @gdou_water
 
@@ -21,8 +23,8 @@ H:
   湖南农业大学
     💬  @HUNAU
   华南理工大学  #华工
-    💬  @scuttg
     💬  @SCUT_water
+    ~~💬  @scuttg~~
   惠州学院
     📣  @huizhouu
     💬  @hz_univ
@@ -71,11 +73,3 @@ Z:
     📣  @cshs_edu_pill
     📣  @fuck_sysu
     💬  @sbddy2019
-
-
-[2019-08-03更新]
-- 新群聊 @sustcsustech
-- 根据[投票结果](https://t.me/univinfo/48)，加上了 #Tag
-    注：全名无需tag；频道主不熟悉的高校就没有加上
-- 建议今年毕业的频道主考虑添加在读校友为管理员，以维持频道活跃
-- 历史版本可在 http://bit.ly/Univinfo 追踪
