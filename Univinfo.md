@@ -1,5 +1,5 @@
 高校信息 UnivInfo
-2019-09-03 / Full #Tag
+2019-09-09 / Full #Tag
 
 B:
   北京 **的** 大学

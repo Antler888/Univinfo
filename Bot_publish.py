@@ -1,6 +1,7 @@
 import re
 import tgapi
 import Bot_db
+from tgapi import tools
 
 uploader = tgapi.bot(Bot_db.uploader_id)
 
@@ -21,6 +22,7 @@ def publish(text, markdown=True):
 
 
 if __name__ == '__main__':
+    tools.set_proxy()
     with open('Univinfo.md', 'r', encoding='utf-8') as file:
         index = file.read()
     tg_style_index, strike = telegram_style(index)
