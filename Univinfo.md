@@ -38,6 +38,8 @@ N:
     💬  @sustcsustech
   南方医科大学  #南医大
     📣  @smu_pill
+  南京工程学院
+    💬  @njitedu
 
 S:
   汕头大学  #汕大
@@ -60,6 +62,8 @@ W:
     💬  @WHUTTG
 
 X:
+  西安工业大学
+    📣  @xatu_pill
   西南民族大学
     📣  @SWUNConstructionToday
   香港中文大学  #中大 #港中大
