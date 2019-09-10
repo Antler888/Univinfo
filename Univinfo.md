@@ -10,6 +10,8 @@ B:
 D:
   电子科技大学  #电子科大
     📣  @ohcdzz
+    📣  @UestcNews
+    💬  @Uestcer
   东莞理工大学
     📣  @dgutPANIC
 
