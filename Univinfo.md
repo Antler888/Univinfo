@@ -1,11 +1,13 @@
 高校信息 UnivInfo
-2019-09-09 / Full #Tag
+2019-09-25 / Full #Tag
 
 B:
   北京 **的** 大学
     📣  @WMBrigades
   北京大学 / 树洞  #北大
-    📣  @WhatDoZhaosFear / @pkuhole
+    📣  @WhatDoZhaosFear / @
+  北京交通大学 #北交大
+    📣  @BJTUBOOM
 
 D:
   电子科技大学  #电子科大
