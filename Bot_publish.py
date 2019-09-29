@@ -7,8 +7,8 @@ uploader = tgapi.bot(Bot_db.uploader_id)
 
 
 def telegram_style(text):
-    do_bold = re.sub(r'\*\*(.+)\*\*', r'\*\1\*', text)
-    do_italics = re.sub(r'__(.+)__', r'_\1_', do_bold)
+    # do_bold = re.sub(r'\*\*(.+)\*\*', r'\*\1\*', text)
+    do_italics = re.sub(r'__(.+)__', r'_\1_', text)
     do_at = re.sub(r'@([a-zA-Z0-9_]+)', r'[@\1]', do_italics)
     del_strike = re.sub(r'~~(.+)~~', r'\1 (这里手动下划线)', do_at)
     return (del_strike, False) if del_strike == do_at else (del_strike, True)
@@ -19,7 +19,7 @@ def publish(text, markdown=True):
         parse = 'Markdown'
     else:
         parse = None
-    return uploader.send(Bot_db.channel_id).text(text, parse=parse, no_preview=True)
+    return uploader.send(Bot_db.channel_id).text(text, parse=parse, no_preview=True, disable_notification=True)
 
 
 if __name__ == '__main__':

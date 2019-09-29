@@ -1,11 +1,11 @@
 高校信息 UnivInfo
-2019-09-25 / Full #Tag
+2019-09-29 / Update
 
 B:
   北京 **的** 大学
     📣  @WMBrigades
   北京大学 / 树洞  #北大
-    📣  @WhatDoZhaosFear / @
+    📣  @WhatDoZhaosFear / @pkuhole
   北京交通大学 #北交大
     📣  @BJTUBOOM
 
@@ -29,8 +29,7 @@ H:
   华南理工大学  #华工
     💬  @SCUT_water
   惠州学院
-    📣  @huizhouu
-    💬  @hz_univ
+    📣  @huizhouu / [群组](t.me/hz_univ)
 
 J:
   集美大学  #集美
@@ -80,5 +79,3 @@ Z:
     📣  @ohUPCZZ
   中山大学  #中大 #双鸭山
     📣  @cshs_edu_pill
-    📣  @fuck_sysu
-    💬  @sbddy2019
