@@ -1,9 +1,12 @@
 import re
 import tgapi
-import Bot_db
 from tgapi import tools
 
-uploader = tgapi.bot(Bot_db.uploader_id)
+
+uploader_id = 781791363
+channel_id = -1001457689364
+
+uploader = tgapi.bot(uploader_id)
 
 
 def telegram_style(text):
@@ -19,7 +22,7 @@ def publish(text, markdown=True):
         parse = 'Markdown'
     else:
         parse = None
-    return uploader.send(Bot_db.channel_id).text(text, parse=parse, no_preview=True, disable_notification=True)
+    return uploader.send(channel_id).text(text, parse=parse, no_preview=True)
 
 
 if __name__ == '__main__':
