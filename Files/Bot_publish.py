@@ -27,12 +27,12 @@ def publish(text, markdown=True):
 
 if __name__ == '__main__':
     tools.set_proxy()
-    with open('Univinfo.md', 'r', encoding='utf-8') as file:
+    with open('../Univinfo.md', 'r', encoding='utf-8') as file:
         index = file.read()
     tg_style_index, strike = telegram_style(index)
     res_1 = publish(tg_style_index)
     print('Success: ', res_1['ok'], '\nNeed manually do strikethrough: ', strike)
-    with open('Changelog.md', 'r', encoding='utf-8') as file:
+    with open('../Changelog.md', 'r', encoding='utf-8') as file:
         cl = file.read()
     tg_style_cl, strike = telegram_style(cl)
     res_2 = publish(tg_style_cl)
