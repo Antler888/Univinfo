@@ -1,5 +1,5 @@
 高校信息 UnivInfo
-2019-10-29 / Update
+2019-12-28
 
 B:
   北京 **的** 大学
@@ -31,7 +31,7 @@ H:
   华南理工大学  #华工
     💬  @SCUT_water
   惠州学院
-    📣  @huizhouu / [群组](t.me/hz_univ)
+    📣  @huizhouu ｜ [群组](tg://resolve?domain=hz_univ)
 
 J:
   集美大学  #集美
@@ -61,8 +61,6 @@ S:
     📣  @SZU_GGNews
   深圳职业技术学院  #深职院
     📣  @todayszpt
-  深圳信息职业技术学院  #深信职
-    📣  @SziitNote
 
 U:
   UIC
@@ -88,3 +86,4 @@ Z:
   中山大学  #中大 #双鸭山
     📣  @cshs_edu_pill
     📣  @fuck_sysu
+    💬  @sbddy2019 | [全部](tg://resolve?domain=sysutr_channel)

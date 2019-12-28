@@ -1,4 +1,4 @@
-【2019-10-29】
-+ 检索到一个[新频道](tg://resolve?domain=thu_daily)
-+ 一个[频道](tg://resolve?domain=fuck_sysu)已恢复更新
-
+【2019-12-28】
++ 新频道 @ShanghaiTech
+- 移除了一个[失效频道](tg://resolve?domain=SziitNote)
+* 预祝大家新年快乐！
