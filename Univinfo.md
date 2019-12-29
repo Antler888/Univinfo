@@ -1,5 +1,5 @@
 高校信息 UnivInfo
-2019-12-28
+2019-12-29
 
 B:
   北京 **的** 大学
@@ -29,6 +29,7 @@ H:
   湖南农业大学
     💬  @HUNAU
   华南理工大学  #华工
+    📣  @scut_syndrome
     💬  @SCUT_water
   惠州学院
     📣  @huizhouu ｜ [群组](tg://resolve?domain=hz_univ)
@@ -57,10 +58,16 @@ S:
     📣  @pill_stu
   汕头职业技术学院  #汕职院
     📣  @stptpill
+  上海科技大学
+    📣  @ShanghaiTech
   深圳大学  #深大
     📣  @SZU_GGNews
   深圳职业技术学院  #深职院
     📣  @todayszpt
+
+T:
+  同济大学
+    📣  @tongji_need_pills
 
 U:
   UIC
@@ -83,6 +90,8 @@ X:
 Z:
   中国石油大学  #石大
     📣  @ohUPCZZ
+  中国科学技术大学  #中科大
+    📣  @ustc_pill
   中山大学  #中大 #双鸭山
     📣  @cshs_edu_pill
     📣  @fuck_sysu
