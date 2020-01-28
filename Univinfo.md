@@ -1,5 +1,5 @@
 高校信息 UnivInfo
-2019-12-29
+2020-01-28
 
 B:
   北京 **的** 大学
@@ -94,5 +94,4 @@ Z:
     📣  @ustc_pill
   中山大学  #中大 #双鸭山
     📣  @cshs_edu_pill
-    📣  @fuck_sysu
     💬  @sbddy2019 | [全部](tg://resolve?domain=sysutr_channel)
