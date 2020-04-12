@@ -1,5 +1,5 @@
 高校信息 UnivInfo
-2020-01-28
+2020-04-12
 
 B:
   北京 **的** 大学
@@ -35,8 +35,11 @@ H:
     📣  @huizhouu ｜ [群组](tg://resolve?domain=hz_univ)
 
 J:
-  集美大学  #集美
+  集美大学  #集大
     💬  @openjmu
+  济南大学
+    📣  @UjnBroadcast
+    💬  @UjnEducation
 
 N:
   南方科技大学  #南科大
