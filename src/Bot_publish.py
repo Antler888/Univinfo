@@ -44,7 +44,7 @@ def publish(text, markdown=True):
 
 
 if __name__ == '__main__':
-    set_proxy(port=1082)
+    set_proxy()
     uploader = Bot(query_token(uploader_id))
     with open('../Univinfo.md', 'r', encoding='utf-8') as file:
         index = file.read()
