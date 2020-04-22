@@ -65,7 +65,8 @@ S:
   汕头职业技术学院  #汕职院
     📣  @stptpill
   上海科技大学
-    📣  @ShanghaiTech
+    📣  @Liberal_ShanghaiTech
+    💬  @ShanghaiTech
   深圳大学  #深大
     📣  @SZU_GGNews
   深圳职业技术学院  #深职院
