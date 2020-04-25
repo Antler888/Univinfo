@@ -50,10 +50,10 @@ if __name__ == '__main__':
         index = file.read()
     tg_style_index, strike = telegram_style(index)
     res_1 = publish(tg_style_index)
-    print('Sent at: ', res_1.date, '\nNeed manually do strikethrough: ', strike)
+    print('Sent index at: ', res_1.date, '\nNeed manually do strikethrough: ' if strike else '')
     with open('../Changelog.md', 'r', encoding='utf-8') as file:
         cl = file.read()
     tg_style_cl, strike = telegram_style(cl)
     tg_style_cl = tg_style_cl.replace('* ', '\\* ')
     res_2 = publish(tg_style_cl)
-    print('Sent at: ', res_2.date, '\nNeed manually do strikethrough: ', strike)
+    print('Sent changelog at: ', res_2.date, '\nNeed manually do strikethrough: ' if strike else '')
