@@ -1,5 +1,5 @@
 高校信息 UnivInfo
-2020-05-06
+2020-05-17
 
 B:
   北京的大学
@@ -92,6 +92,8 @@ X:
     📣  @xatu_pill
   西南民族大学
     📣  @SWUNConstructionToday
+  西南石油大学
+    💬  @iswpu
   香港中文大学  #中大 #港中大
     📣  @CUHKSecretsSelect
   香港中文大学（深圳） #港中深

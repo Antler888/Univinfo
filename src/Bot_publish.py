@@ -21,12 +21,6 @@ def query_token(token_id):
     return read_file(f'token_{token_id}', True)
 
 
-def set_proxy(ip='127.0.0.1', port=1080, protocol='http'):
-    proxy = f'{protocol}://{ip}:{port}'
-    os.environ['http_proxy'] = os.environ['HTTP_PROXY'] = os.environ['https_proxy'] = os.environ['HTTPS_PROXY'] = proxy
-    return proxy
-
-
 def telegram_style(text):
     do_bold = re.sub(r'\*\*(.+)\*\*', r'*\1*', text)
     do_italics = re.sub(r'__(.+)__', r'_\1_', do_bold)
@@ -44,7 +38,6 @@ def publish(text, markdown=True):
 
 
 if __name__ == '__main__':
-    set_proxy()
     uploader = Bot(query_token(uploader_id))
     with open('../Univinfo.md', 'r', encoding='utf-8') as file:
         index = file.read()
