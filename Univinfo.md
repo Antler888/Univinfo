@@ -1,5 +1,5 @@
 高校信息 UnivInfo
-2020-05-17
+2020-05-18
 
 B:
   北京的大学
@@ -57,7 +57,9 @@ N:
     💬  @njitedu
 
 Q:
-  清华大学  #清华
+  齐鲁工业大学
+    💬  @qluedu
+  清华大学
     📣  @thu_daily
 
 S:
@@ -93,6 +95,7 @@ X:
   西南民族大学
     📣  @SWUNConstructionToday
   西南石油大学
+    📣  @swpuers
     💬  @iswpu
   香港中文大学  #中大 #港中大
     📣  @CUHKSecretsSelect

@@ -1,5 +1,4 @@
 import re
-import os
 import base64
 from telegram import Bot
 
@@ -39,6 +38,9 @@ def publish(text, markdown=True):
 
 if __name__ == '__main__':
     uploader = Bot(query_token(uploader_id))
+    with open('../message.log', 'r') as file:
+        msg_id = file.read()
+    uploader.delete_message(channel_id, msg_id)
     with open('../Univinfo.md', 'r', encoding='utf-8') as file:
         index = file.read()
     tg_style_index, strike = telegram_style(index)
@@ -50,3 +52,5 @@ if __name__ == '__main__':
     tg_style_cl = tg_style_cl.replace('* ', '\\* ')
     res_2 = publish(tg_style_cl)
     print('Sent changelog at: ', res_2.date, '\nNeed manually do strikethrough: ' if strike else '')
+    with open('../message.log', 'w') as file:
+        file.write(str(res_1.message_id))
