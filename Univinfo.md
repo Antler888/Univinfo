@@ -1,11 +1,11 @@
 高校信息 UnivInfo
-2020-05-18
+2020-06-10
 
 B:
   北京的大学
     📣  @WMBrigades
   北京大学 / 树洞  #北大
-    📣  @WhatDoZhaosFear / @pkuhole
+    📣  @WhatDoZhaosFear
   北京交通大学 #北交大
     📣  @BJTUBOOM
 
@@ -38,8 +38,6 @@ H:
     📣  @huizhouu ｜ [群组](tg://resolve?domain=hz_univ)
 
 J:
-  集美大学  #集大
-    💬  @openjmu
   济南大学
     📣  @UjnBroadcast
     💬  @UjnEducation
@@ -48,7 +46,6 @@ N:
   南方科技大学  #南科大
     📣  @SUSTechGG
     📣  @nankeyilu
-    💬  @sustcsustech
   南方医科大学  #南医大
     📣  @smu_pill
   南京财经大学
@@ -59,6 +56,8 @@ N:
 Q:
   齐鲁工业大学
     💬  @qluedu
+  青岛理工大学
+    💬  @qingdaoligong
   清华大学
     📣  @thu_daily
 
@@ -74,6 +73,7 @@ S:
     💬  @ShanghaiTech
   深圳大学  #深大
     📣  @SZU_GGNews
+    💬  @shenzhenuniversityszu
   深圳职业技术学院  #深职院
     📣  @todayszpt
 
@@ -90,8 +90,6 @@ W:
     💬  @WHUTTG
 
 X:
-  西安工业大学
-    📣  @xatu_pill
   西南民族大学
     📣  @SWUNConstructionToday
   西南石油大学

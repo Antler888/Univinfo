@@ -39,8 +39,11 @@ def publish(text, markdown=True):
 if __name__ == '__main__':
     uploader = Bot(query_token(uploader_id))
     with open('../message.log', 'r') as file:
-        msg_id = file.read()
-    uploader.delete_message(channel_id, msg_id)
+        msg_id = int(file.read())
+    try:
+        uploader.delete_message(channel_id, msg_id)
+    except:
+        print('Can\'t delete messages 48 hrs ago.')
     with open('../Univinfo.md', 'r', encoding='utf-8') as file:
         index = file.read()
     tg_style_index, strike = telegram_style(index)
